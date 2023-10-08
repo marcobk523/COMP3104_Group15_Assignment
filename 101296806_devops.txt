@@ -1,1 +1,1 @@
-This is a course at george brown college which teaches devops
+This is a course at george brown college which teaches devops.
