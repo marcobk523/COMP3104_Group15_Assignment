@@ -1,2 +1,2 @@
 sldc = software development cycle
-and devops is part of that which is why is important to learn.
+and devops is part of that which is why is important to learn..
