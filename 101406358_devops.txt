@@ -1,0 +1,3 @@
+Dev Ops course at George Brown.
+Teaches how to use GitHub.
+And how to utilize git from the terminal/command line.
