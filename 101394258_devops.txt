@@ -1,1 +1,1 @@
-a course on devops offered at GBC.
+A course on DevOps offered at George Brown College.
