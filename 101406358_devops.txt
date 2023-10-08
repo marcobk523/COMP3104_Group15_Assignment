@@ -1,1 +1,2 @@
 Dev Ops course at George Brown.
+Teaches how to use GitHub.
