@@ -1,2 +1,2 @@
 Being a dev ops engineer is important for software development.
-Because when it comes to developing software, the processes and methodology that is applied is consistent across the industry
+Because when it comes to developing software, the processes and methodology that is applied is consistent across the industry.
